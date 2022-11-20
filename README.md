@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Projeto Front construido a partir do Figma [Front Desafio Copa do Mundo](https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=152536%3A1288&t=voiYPOqoSFEI1DgY-0),
+em NextJs, TypeScript e Styled Components.
 
 ## Getting Started
 

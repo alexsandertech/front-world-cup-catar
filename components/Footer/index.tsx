@@ -36,6 +36,11 @@ export default function Footer() {
             
             <Part style={{justifyContent: 'center', alignItems: 'flex-start'}}>
                 <LogoFooter/>
+
+                <div style={{color: '#FFF', display: 'flex', flexDirection: 'column', gap: '20px', fontSize: '16px', marginTop: '30px'}}> 
+                    <a  href="http://alexsander.tech" target={'_blank'}>Code: AlexsanderTech</a>
+                    <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=152536%3A1288" target={'_blank'}>Design: Iuri Silva</a>
+                </div>
             </Part>
         </Container>
     )
